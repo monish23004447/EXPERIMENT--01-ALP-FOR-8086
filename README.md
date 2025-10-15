@@ -242,7 +242,7 @@ HLT
 
 ## Result :
  
-The Write and execute ALP on fundamental arithmetic and logical operations is executed successfully.
+ ALP on fundamental arithmetic and logical operations is executed successfully.
  
 
 
